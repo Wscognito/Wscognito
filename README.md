@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Wscognito
+👋 Hi, I’m @Wscognito
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently looking forward to increase and boost my knowledge
 - 💞️ I’m looking to collaborate on any project
